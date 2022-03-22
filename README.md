@@ -6,11 +6,11 @@
 
 [x] git remote add origin / conectar as duas pastas
 
-[] git add
+[x] git add
 
-[] git commit
+[x] git commit
 
-[] git push
+[x] git push
 
 [] git pull
 
@@ -19,3 +19,6 @@
 [] git checkout
 
 [] git clone
+
+
+hello world
