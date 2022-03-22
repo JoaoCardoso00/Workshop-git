@@ -12,11 +12,11 @@
 
 [x] git push
 
-[] git pull
+[x] git pull
 
-[] git branch
+[x] git branch
 
-[] git checkout
+[x] git checkout
 
 [] git clone
 
