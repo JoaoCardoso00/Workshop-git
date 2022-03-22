@@ -1,27 +1,26 @@
 ## Github
 
-[] o que é git e github
+[x] oque é um repositório -- https://github.com/torvalds/linux
 
-[] história do git
+[x] criando um repositório
 
-[] por que usar?
+[x] git remote add origin / conectar as duas pastas
 
-[] oque é um repositório -- https://github.com/torvalds/linux
+[x] git add
 
-[] criando um repositório
+[x] git commit
 
-[] git clone
-
-[] git remote
-
-[] git add
-
-[] git commit
-
-[] git push
+[x] git push
 
 [] git pull
 
 [] git branch
 
 [] git checkout
+
+[] git clone
+
+
+hello world
+
+oi mae
